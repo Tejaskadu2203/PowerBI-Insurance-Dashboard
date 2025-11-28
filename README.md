@@ -9,3 +9,5 @@ Key Features:
 ✔ Claims by Age Group, Policy Type, and Status
 ✔ Active vs Inactive policy segmentation
 ✔ Trend analysis and business performance reporting
+
+<img width="906" height="487" alt="Image" src="https://github.com/user-attachments/assets/d9a28a68-d7e1-43b4-bf36-4481944f9c14" />
